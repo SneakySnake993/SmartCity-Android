@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartCity</string>
+
+    <!-- Errors -->
+    <string name="http_no_connection">Pas de données : Vérifiez votre connexion internet</string>
+    <string name="technical_error">Une erreur inconnue s\'est produite : Essayez à nouveau</string>
+    <string name="request_error">Une erreur s\'est produite lors de votre demande</string>
+
+    <!-- Nav -->
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Ouvrir le navigation drawer</string>
+    <string name="navigation_drawer_close">Fermer le navigation drawer</string>
+    <string name="default_nav_header_title">Non connecté</string>
+    <string name="welcome_nav_header_title">Bienvenue</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Paramètres</string>
+
+    <!-- Nav Item -->
+    <string name="menu_home">Accueil</string>
+    <string name="menu_activity">Activité</string>
+    <string name="menu_activity_filters">Catégorie d\'activité</string>
+    <string name="menu_place">Lieu</string>
+    <string name="menu_bookmarks">Favoris</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="menu_login">Connexion</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Votre signature</string>
+    <string name="reply_title">Action de réponse par défaut</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Synchronisation périodique des e-mails</string>
+    <string name="attachment_title">Télécharger les pièces jointes entrantes</string>
+    <string name="attachment_summary_off">Ne téléchargez les pièces jointes qu\'en cas de demande manuelle</string>
+
+    <!-- Spinner hint -->
+    <string name="city_spinner_hint">Ville</string>
+
+    <!-- InformationDialog -->
+
+    <string name="ok">Ok</string>
+    <string name="cancel">Annuler</string>
+    <string name="error">Erreur</string>
+    <string name="not_connected_error">Non connecté</string>
+    <string name="not_connected_message">Vous devez être connecté pour accéder à cette fonctionnalité</string>
+    <string name="wrong_email_password">Nom d\'utilisateur et/ou mot de passe incorrect</string>
+    <string name="error_servor">Une erreur s\'est produite de notre côté</string>
+
+    <!-- Text in layout -->
+    <string name="search">Rechercher</string>
+    <string name="edit_filters">Modifier les filtres</string>
+    <string name="confirm">Confirmer</string>
+    <string name="enter_your_username">Entrez votre nom d\'utilisateur</string>
+    <string name="enter_your_password">Entrez votre mot de passe</string>
+    <string name="login">Se connecter</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="settings">Paramètres</string>
+    <string name="languages">Langues</string>
+    <string name="night_mode">Mode Nuit</string>
+    <string name="attachment_summary_on">Télécharger automatiquement les pièces jointes des e-mails entrants</string>
+    <string name="elements_not_found">Éléments introuvable</string>
+
+
+</resources>
