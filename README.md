@@ -5,5 +5,5 @@ Professeur de laboratoire : BEIREKDAR Abdo
 
 Réalisé par
 
-D'HOEST Gage
-BRICH Johan
+- D'HOEST Gage
+- BRICH Johan
